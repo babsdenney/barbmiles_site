@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/barbmiles
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://barbmiles.com
+  * I am barbmiles (https://keybase.io/barbmiles) on keybase.
+  * I have a public key ASDwLw6r9246f7ILWWzbMZhhqlgS95f1lT60O3HMbmrb7wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f02f0eabf76e3a7fb20b596cdb319861aa5812f797f5953eb43b71cc6e6adbef0a",
+      "host": "keybase.io",
+      "kid": "0120f02f0eabf76e3a7fb20b596cdb319861aa5812f797f5953eb43b71cc6e6adbef0a",
+      "uid": "4014237d18d5984d6a478372c529d119",
+      "username": "barbmiles"
+    },
+    "merkle_root": {
+      "ctime": 1535479554,
+      "hash": "33712ab81ef2bd4cfc71d0586359a0db12398bb37f82eca4ad90d287406b62b8063509fb84254591c3aa8019d2e1f90479288efceaacd57f5b81d45b38492517",
+      "hash_meta": "07d89bab0ea355022aa34e7e21cb9713583441d210eaa34ac462870c4ca939c4",
+      "seqno": 3528371
+    },
+    "service": {
+      "entropy": "lAcnkN/zQYEznRAP4OmyPkyK",
+      "hostname": "barbmiles.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1535479566,
+  "expire_in": 504576000,
+  "prev": "516c8585adf228a9cda71f90edf547d799c0d15f16cbf7f1969682f91aaf001d",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8C8Oq/duOn+yC1ls2zGYYapYEveX9ZU+tDtxzG5q2+8Kp3BheWxvYWTESpcCBcQgUWyFha3yKKnNpx+Q7fVH15nA0V8Wy/fxlpaC+RqvAB3EIOJ3C1SeDGqjdCkkhvBD6ImTntHaJsbdngNVOyeVRa0AAgHCo3NpZ8RAfY97aa1H7Z4VLQl9y2gBeQ37LVNs4M1EiJqchU5H0ddma36kPRkVkB9jutZedBbDsnIfeD1CtgAh0PL25W0TAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIhGZtAR2p/0P8KDuYhLO+KrJ0k01waF/OOBgo7XPFDoo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/barbmiles
+
+==================================================================
